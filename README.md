@@ -1,4 +1,3 @@
-# TWeb_Tema
 Având funcția hash(input, dictionary) unde:
 
     input este un string (ex. "The dog is walking fast")
